@@ -1,1 +1,2 @@
-# STOCKTSD
+# Time series forecasting - Stock Data
+
